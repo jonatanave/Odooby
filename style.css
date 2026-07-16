@@ -1,24 +1,18 @@
-/* =========================================
-   CÉDULA DE MI APP (MANIFEST PRE-VIEW)
-   Nombre: Mi Solución
-   Color de Marca: #2e7d32
-   Modo: Standalone (App Completa)
-   ========================================= */
-
+/* Configuración de la pantalla del celular */
 .contenedor-app {
-  background-color: #76ffff;
-  height: 100vh;
-  font-family: 'Segoe UI', sans-serif;
-  display: flex;
-  flex-direction: column;
+    background-color: #c7eaf3;
+    height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 
 .mi-header {
-  background-color: #00faff; /* ESTE ES TU THEME_COLOR */
-  color: white;
-  text-align: center;
-  padding: 10px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    background-color: #2e8ab4; /* Verde institucional */
+    color: white;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
 .contenido {
